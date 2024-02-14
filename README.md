@@ -34,4 +34,18 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
 # FSW_Barber
+
+https://www.prisma.io/docs/getting-started/quickstart
+npm install prisma --save-dev
+npx prisma init --datasource-provider postgresql
+
+https://github.com/RobAb2023/FSW_Barber
+
+https://app.diagrams.net/#HRobAb2023%2FFSW_Barber%2Fmain%2FFSWBarber.drawio#%7B%22pageId%22%3A%22b520641d-4fe3-3701-9064-5fc419738815%22%7D
+
+#correção prisma
+npx prisma format
+
+#aula1 51:50
